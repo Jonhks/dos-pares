@@ -1,6 +1,6 @@
 # Instrucciones 
 
-### Crear una webapp que determine si dos números son pares 
+### Crear una webapp que determine si dos números son pares 
  
 _Sigue los pasos a continuación para completar el programa:_ 
 
