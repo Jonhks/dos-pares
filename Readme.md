@@ -4,7 +4,7 @@
  
 _Sigue los pasos a continuación para completar el programa:_ 
 
-1. Si dos nuemros son pares retorna:  "Estos dos números son pares";
+Si dos nuemros son pares retorna:  "Estos dos números son pares";
 
 en caso contrario retorna:  "Lo siento, los números NO son pares".
 
