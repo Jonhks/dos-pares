@@ -4,9 +4,9 @@
  
 _Sigue los pasos a continuación para completar el programa:_ 
 
-1. Si dos nuemros son pares haz un console.log de "Estos nuemros son pares";
+1. Si dos nuemros son pares haz un console.log de "Estos números son pares";
 
-en caso contrario haz un console.log de "Lo siento, los numeros NO son pares".
+en caso contrario haz un console.log de "Lo siento, los números NO son pares".
 
 _Consejo: Usar el operador modulo %_
 
